@@ -27,9 +27,11 @@ Speaking of extra points...
 
 ## Bonus Points
 - Every company does things a little differently. The closer you get to our stack the better we'll be able to assess how you work with it. So, extra credit if you use any of the following:
-  - [Mobx](https://mobx.js.org) and [Mobx State Tree](https://mobx-state-tree.js.org) for state management.
-  - [Sass](https://sass-lang.com/) for styling.
-  - [React Router](https://reacttraining.com/react-router/) for routing.
+  - Zustand
+  - Tailwind
+  - React-router
+  - Axios
+  - Express or fastify for all api interactions
 - Optimizing
   - various features are as fast as possible.
   - Re-use of components
